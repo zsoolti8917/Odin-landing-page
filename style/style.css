@@ -93,6 +93,8 @@ body{
     align-items: center;
     background-color: var(--color-primary-900);
     color: var(--color-primary-100);
+    padding: 1rem;
+    
 }
 
 .header__container{
@@ -102,8 +104,8 @@ body{
     align-items: center;
     width: 100%;
     max-width: 1200px;
-    padding: 1rem 0rem;
-    margin: 0rem 1rem;
+    
+    margin: 1rem 1rem;
     
 }
 .header__logo{
